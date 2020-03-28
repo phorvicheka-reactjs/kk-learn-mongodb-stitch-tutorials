@@ -1,0 +1,3 @@
+[submodule "todo-app/todo-app-frontend/todo-web-app"]
+	path = todo-app/todo-app-frontend/todo-web-app
+	url = https://github.com/mongodb-university/stitch-tutorial-todo-web.git
